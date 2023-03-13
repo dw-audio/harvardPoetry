@@ -1,5 +1,7 @@
 # harvardPoetry
-Repository to make poems from the Harvard Sentence Corpus using natural language toolkit to find rhymes. 
+The Harvard Sentence Corpus is a list of phonetically balanced sentences used in audiology examinations, hearing aid fittings and the like. 
+
+This is a repository to make weird poems from the Harvard Sentence Corpus, using natural language toolkit to find rhymes. 
 
 # Examples
 Paste can cleanse the most dirty brass.
